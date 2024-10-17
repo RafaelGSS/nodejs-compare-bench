@@ -2,6 +2,7 @@
   "dependencies": {
     "bench-node": "^0.1.0",
     "benchmark": "^2.1.4",
+    "piscina": "^4.7.0",
     "tinybench": "^2.9.0"
   }
 }
